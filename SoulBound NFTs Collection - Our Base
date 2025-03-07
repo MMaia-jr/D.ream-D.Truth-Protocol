@@ -1,0 +1,107 @@
+LitePaper: Soulbound NFT Collection for Decentralized Governance Off-Chain Discord /
+On-Chain Stargaze
+Version 1.0 | June 2025
+Abstract
+In the evolving Web3 ecosystem, trust and transparency remain critical challenges. Our
+Soulbound NFT collection on the Stargaze network is designed to build a robust
+decentralized governance system where credibility and governance weight stem directly
+from genuine contributions. By employing non-transferable (soulbound) tokens, we ensure
+that each member’s identity is uniquely bound to their contributions, eliminating risks related
+to token trading and external manipulation. This paper details the rationale, features, and
+benefits of our Soulbound NFT collection.
+1. Introduction
+The Web3 landscape promises true decentralization, yet issues such as rug pulls,
+concentrated voting power, and misinformation continue to undermine trust. Traditional
+tokens are often transferable, which can dilute the direct connection between a member’s
+contributions and their influence in governance. Our protocol uses non-transferable,
+Soulbound NFTs to ensure that every governance-related asset is permanently linked to the
+original member, thereby reinforcing both credibility and accountability.
+2. Rationale for Non-Transferable (Soulbound) NFTs
+•
+Immutable Identity:
+Soulbound NFTs are permanently bound to a single wallet, ensuring that each member’s
+identity and governance weight are immutable. This guarantees that voting power and
+credibility arise solely from verified contributions.
+•
+Eliminating External Manipulation:
+By preventing the transfer or sale of these tokens, the protocol avoids external manipulation
+and preserves a meritocratic, community-driven decision-making process.
+•
+Enhanced Credibility:
+Only individuals who have completed our educational module and received their Truth ID
+NFT can vote, propose and invite new members, ensuring that the community grows
+organically and with aligned values.
+3. Features of the Soulbound NFT Collection
+3.1 Truth ID NFT
+•
+Purpose:
+Serves as a unique digital identity for each member.
+•
+Function:
+Minted upon passing a gamified educational program on protocol rules, it certifies that the
+member understands and commits to the protocol’s principles.
+•
+Governance Role:
+Grants access to decentralized governance and the right to invite new members.
+3.2 Creator NFT
+•
+Purpose:
+Awarded to members with significant contributions.
+•
+Function:
+This NFT, minted only once per member, initially holds 51% of the total voting power. It can
+later be burned to facilitate a co-creation process, redistributing the 51% power into two or
+more NFTs based on negotiated divisions.
+•
+Governance Role:
+Ensures that creative contributions are highly valued and that governance power is
+reallocated based on merit.
+3.3 Collaborator NFT
+•
+Purpose:
+Minted daily to acknowledge individual contributions.
+•
+Function:
+Each Collaborator NFT is unique and carries a voting weight between 1 and 7, based on the
+quality and impact of the contribution.
+•
+Governance Role:
+Directly influences the credibility ranking and overall governance weight of a member.
+3.4 Red Pill NFT
+•
+Purpose:
+Acts as a weekly voting multiplier, reinforcing active participation and alignment with
+community consensus.
+•
+Function:
+Minted every Sunday, it calculates a multiplier using the formula:
+\text{Multiplier} = (\% \text{Participation} \times \% \text{Alignment} \times 7)
+Each wallet is limited to a maximum of 3 Red Pill NFTs; the oldest is burned every 28 days.
+•
+Governance Role:
+Enhances the voting power of members who consistently participate and align with the
+community’s values.
+4. Integration with Decentralized Governance
+Our Soulbound NFT collection is a cornerstone for a governance system where:
+•
+Credibility is Earned:
+Governance weight is directly linked to verified contributions and ethical behavior.
+•
+Controlled Recruitment:
+Only members holding a Truth ID NFT can invite new participants, ensuring quality and
+alignment.
+•
+Transparency is Maintained:
+Initially operating off-chain (via Discord), the system is designed for gradual integration with
+on-chain governance as the community grows.
+•
+Ethical Participation is Rewarded:
+The protocol continuously rewards truth and alignment—contributing to a sustainable,
+merit-based governance ecosystem.
+5. Conclusion
+Our Soulbound NFT collection on Stargaze is designed to serve as the bedrock of a
+decentralized governance system that values genuine contributions and ethical behavior. By
+utilizing non-transferable tokens, we ensure that every member’s identity is intrinsically
+linked to their impact, fostering a transparent and accountable community. This approach not
+only secures governance integrity but also paves the way for future enhancements, including
+the introduction of the $D.Truth Token for staking and additional incentives
