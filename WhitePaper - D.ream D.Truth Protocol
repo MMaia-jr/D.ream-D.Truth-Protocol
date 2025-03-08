@@ -1,7 +1,3 @@
-Below is the final, comprehensive whitepaper for the D.ream D.Truth Protocol. This document is designed to be solid and technical, appealing to investors, developers, crypto enthusiasts, and seekers of true decentralized governance. It integrates extensive research and citations from well‑known sources in the blockchain and organizational fields.
-
-⸻
-
 D.ream D.Truth Protocol: A Technical Whitepaper
 
 A Trustless, Transparent, and Collaborative Governance Framework for Web3
@@ -252,12 +248,25 @@ For a comprehensive explanation of our entire NFT collection and its integration
 	•	CNVC Research, 2025: Benefits of Nonviolent Communication. (CNVC)
 	•	Dash et al., 2024: Studies on leadership ethics and yogic principles. (DOI)
 	•	Dragon Dreaming International, 2020: Methodology insights for collaborative governance. (Dragon Dreaming)
-	•	Additional references: Audit reports by CertiK and Halborn, and community impact metrics.
 
-⸻
+MIT License
 
-This whitepaper is a living document. As our protocol evolves and our community grows, our commitment to transparency, ethical collaboration, and continuous improvement will guide every update.
+Copyright (c) 2025 MMaia-jr
 
-⸻
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-Please review this document and let me know if any additional details or adjustments are needed.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
